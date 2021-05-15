@@ -1,0 +1,12 @@
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache
